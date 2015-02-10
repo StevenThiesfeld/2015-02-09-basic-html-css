@@ -2,10 +2,15 @@ p {font-family: Serif,"Times New Roman" ;
 font-weight: bold;
 }
 h1, h3, h4  {font-family: fantasy ;
-    color: blue;
+    color: red;
     font-weight: bolder;
     text-decoration: underline;
     border: 2px dotted red;
     }
-body {background-color: brown;}
+body {background-color: grey;}
+
+a {font-size:25px;
+  border:2px solid red;
+  color: purple;
+}
 
